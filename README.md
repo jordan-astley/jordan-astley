@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordan-astley.
-- 👀 I’m interested in electronics & software engineering, and Data Science.
-- 🌱 I’m currently learning Python and C. I also have experience in VHDL.
+- 👀 My background is in electronics engineering.
+- 🌱 I’m currently studying an online course, Harvard University's cs50x, through the EdX learning platform.
 - 💞️ I’m looking to collaborate on Python projects.
  
 
