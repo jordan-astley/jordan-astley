@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordan-astley.
 - 👀 My background is in electronics engineering.
-- 🌱 I’m currently studying an online course, Harvard University's cs50x, through the EdX learning platform.
+- 🌱 I’m recently completed Harvard University's cs50x online course, through the EdX learning platform.
 - 💞️ I’m looking to collaborate on Python projects.
  
 
